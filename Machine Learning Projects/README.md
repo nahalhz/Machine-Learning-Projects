@@ -1,0 +1,1 @@
+Welcome. This folder aims to showcase my knowledge and the higlight of few models I have created with guidance from bootcamps and other resources. In this folder you can see applications of SVC, NLP, Deep learning and more!
